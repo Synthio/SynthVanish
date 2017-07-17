@@ -1,6 +1,6 @@
 --SynthioVanish--
 
-This is a plugin for Minecraft servers that vanishes and unvanished players.
+This is a plugin for Minecraft servers that vanishes and unvanishes players.
 
 
 
